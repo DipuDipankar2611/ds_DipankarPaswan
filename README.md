@@ -67,7 +67,7 @@ The project adheres to the following standardized structure:
 ## Contact & Links
 
 - **Google Colab Notebook:** https://colab.research.google.com/drive/1CGnBYNnO6M0JmA0MhD1MqSor_UvqyNCg?usp=sharing 
-- **GitHub Repository:** [Insert your GitHub repo link here]
+- **GitHub Repository:** https://github.com/DipuDipankar2611/ds_DipankarPaswan
 
 ---
 
